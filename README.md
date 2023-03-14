@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alper Karaca</h1>
 <h3 align="center">3th Year Computer Engineering Student from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thealper2&label=Profile%20views&color=0e75b6&style=flat" alt="thealper2" /> </p>
-
 - 🔭 I’m currently working on **siberg**
 
 - 🌱 I’m currently learning **Golang**
