@@ -10,7 +10,7 @@
 
 <br>
 
-- A passionate Self-taught Cyber-Security developer
+- A passionate Self-taught Cyber-Security.
 - Playing CTF's at spare time
 - Currently learning **Flutter** and **Go** by Self
 - Personal website [link](https://thealper2.github.io)
