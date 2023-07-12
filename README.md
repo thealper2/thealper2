@@ -208,6 +208,24 @@
 181. [Penguin Classification](https://github.com/thealper2/Penguin-Classification)
 182. [League of Legends win Prediction](https://github.com/thealper2/League-of-Legends-Win-Prediction)
 183. [World Cup 2022 Sentiment Analysis](https://github.com/thealper2/WC-2022-Sentiment-Analysis)
+184. [Wine Quality Checker](https://github.com/thealper2/Wine-Quality-Checker)
+185. [Comet ML Diabetes Prediction](https://github.com/thealper2/Comet-ML-Diabetes-Prediction)
+186. [Comet ML Breast Cancer Classification](https://github.com/thealper2/Comet-ML-Breast-Cancer-Classification)
+187. [Fashion MNIST Flask](https://github.com/thealper2/Fashion-MNIST-Flask)
+188. [FASTAI IMDB Sentiment Analysis](https://github.com/thealper2/FASTAI-IMDB-Sentiment-Analysis)
+189. [FASTAPI Iris Classification](https://github.com/thealper2/FASTAPI-Iris-Classification)
+190. [Flask MNIST Digit Classification](https://github.com/thealper2/FLASK-MNIST-Digit-Classification)
+191. [Mlflow Liver Disease Prediction](https://github.com/thealper2/MLflow-Liver-Disease-Prediction)
+192. [Dash Iris Classification](https://github.com/thealper2/Dash-Iris-Classification)
+193. [Dash Heart Disease Prediction](https://github.com/thealper2/Dash-Heart-Disease-Prediction)
+194. [GONUM Sales Prediction](https://github.com/thealper2/GONUM-Sales-Prediction)
+195. [Fruit Vegetable Classification](https://github.com/thealper2/Fruit-Vegetable-Classification)
+196. [Spark Adult Income Clasification](https://github.com/thealper2/Spark-Adult-Income-Classification)
+197. [Spark Sales Prediction](https://github.com/thealper2/Spark-Sales-Prediction)
+198. [Spark Mall Customers Clustering](https://github.com/thealper2/Spark-Mall-Customers-Clustering)
+199. [Spark Iris Classification](https://github.com/thealper2/Spark-Iris-Classification)
+200. [Cryotherapy Analysis](https://github.com/thealper2/Cryotherapy-Analysis)
+201. [Traffic Prediction](https://github.com/thealper2/Traffic-Prediction)
 
 - ML.NET
 
@@ -258,6 +276,13 @@
 1. [VTscan Mobile](https://github.com/thealper2/vtscan-mobile)
 2. [USOM Search Mobile](https://github.com/thealper2/usom-search-mobile)
 3. [MAS NFT Demo](https://github.com/thealper2/MAS-NFT-Demo)
+4. [MLKit Text Recognition](https://github.com/thealper2/MLKit_Text_Recognition)
+5. [MLKit Image Labeling](https://github.com/thealper2/MLKit_Image_Labeling)
+6. [MLKit Barcode Scanner](https://github.com/thealper2/MLKit_Barcode_Scanner)
+7. [MLKit Smiling Detection](https://github.com/thealper2/MLKit_Smiling_Detection)
+8. [MLKit Text Translation](https://github.com/thealper2/MLKit_Text_Translation)
+9. [MLKit Object Detection](https://github.com/thealper2/MLKit_Object_Detection)
+10. [MLKit Face Detection](https://github.com/thealper2/MLKit_Face_Detection)
 
 - Chrome Extensions
 
