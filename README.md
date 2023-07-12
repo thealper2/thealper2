@@ -44,15 +44,15 @@
 | 14. | Python | X | [Hotel Booking Prediction](https://github.com/thealper2/Hotel-Booking-Prediction) |
 | 15. | Python | X | [Horse or Human Classification](https://github.com/thealper2/Horse-or-Human-Classification) |
 | 16. | Python | X | [Honey Bee Pollen Detection](https://github.com/thealper2/Honey-Bee-Pollen-Detection) |
-| 17. | Python | X | [Glass Classification](https://github.com/thealper2/Glass-Classification) |
-| 18. | Python | X | [Fresher Salary Prediction](https://github.com/thealper2/Fresher-Salary-Prediction) |
+| 17. | Python | Streamlit | [Glass Classification](https://github.com/thealper2/Glass-Classification) |
+| 18. | Python | Streamlit | [Fresher Salary Prediction](https://github.com/thealper2/Fresher-Salary-Prediction) |
 | 19. | Python | X | [Forest Cover Type Prediction](https://github.com/thealper2/Forest-Cover-Type-Prediction) |
-| 20. | Python | X | [Football Team Rating Prediction](https://github.com/thealper2/Football-Team-Rating-Prediction) |
+| 20. | Python | Streamlit | [Football Team Rating Prediction](https://github.com/thealper2/Football-Team-Rating-Prediction) |
 | 21. | Python | X | [Fire Detection](https://github.com/thealper2/Fire-Detection)  |
 | 22. | Python | X | [Fertilizer Prediction](https://github.com/thealper2/Fertilizer-Prediction) |
 | 23. | Python | X | [Fake Bank Note Prediction](https://github.com/thealper2/Fake-Bank-Note-Prediction) |
 | 24. | Python | X | [Dry Beans Classification](https://github.com/thealper2/Dry-Beans-Classification) |
-| 25. | Python | X | [Diamond Price Prediction](https://github.com/thealper2/Diamond-Price-Prediction) |
+| 25. | Python | Streamlit | [Diamond Price Prediction](https://github.com/thealper2/Diamond-Price-Prediction) |
 | 26. | Python | X | [Covid-19 Detection](https://github.com/thealper2/Covid-19-Detection) |
 | 27. | Python | X | [Color Identification](https://github.com/thealper2/Color-Identification) |
 | 28. | Python | X | [Clothing Classification](https://github.com/thealper2/Clothing-Classification) |
@@ -61,10 +61,10 @@
 | 31. | Python | X | [Certial Jewelry Prediction](https://github.com/thealper2/Certial-Jewelry-Prediction) |
 | 32. | Python | X | [Car Brand Classification](https://github.com/thealper2/Car-Brand-Classification) |
 | 33. | Python | X | [Butterfly Classification](https://github.com/thealper2/Butterfly-Classification) |
-| 34. | Python | X | [Brain Weight Prediction](https://github.com/thealper2/Brain-Weight-Prediction) |
+| 34. | Python | Streamlit | [Brain Weight Prediction](https://github.com/thealper2/Brain-Weight-Prediction) |
 | 35. | Python | X | [Brain Tumour Detection](https://github.com/thealper2/Brain-Tumour-Detection) |
 | 36. | Python | X | [Board Game Review Prediction](https://github.com/thealper2/Board-Game-Review-Prediction) |
-| 37. | Python | X | [Blood Donor Prediction](https://github.com/thealper2/Blood-Donor-Prediction) |
+| 37. | Python | Streamlit | [Blood Donor Prediction](https://github.com/thealper2/Blood-Donor-Prediction) |
 | 38. | Python | X | [Bike Crash Prediction](https://github.com/thealper2/Bike-Crash-Prediction) |
 | 39. | Python | X | [Ball Image Classification](https://github.com/thealper2/Ball-Image-Classification) |
 | 40. | Python | X | [Asteroid Classification](https://github.com/thealper2/Asteroid-Classification) |
@@ -75,34 +75,34 @@
 | 45. | Python | X | [Skin Cancer Prediction](https://github.com/thealper2/Skin-Cancer-Detection) |
 | 46. | Python | X | [Pedestrian Detection](https://github.com/thealper2/Pedestrian-Detection) |
 | 47. | Python | X | [Object Detection with SSD](https://github.com/thealper2/Object-Detection-with-SSD) |
-| 48. | Python | X | [Loan Approval Prediction](https://github.com/thealper2/Loan-Approval-Prediction) |
+| 48. | Python | Streamlit | [Loan Approval Prediction](https://github.com/thealper2/Loan-Approval-Prediction) |
 | 49. | Python | X | [Intrusion Detection System](https://github.com/thealper2/IDS-RF) |
-| 50. | Python | X | [Fuel Efficiency Prediction](https://github.com/thealper2/Fuel-Efficiency-Prediction) |
-| 51. | Python | X | [Disease Prediction](https://github.com/thealper2/Disease-Prediction) |
-| 52. | Python | X | [Calories Burnt Prediction](https://github.com/thealper2/Calories-Burnt-Prediction) |
+| 50. | Python | Streamlit | [Fuel Efficiency Prediction](https://github.com/thealper2/Fuel-Efficiency-Prediction) |
+| 51. | Python | Streamlit | [Disease Prediction](https://github.com/thealper2/Disease-Prediction) |
+| 52. | Python | Streamlit | [Calories Burnt Prediction](https://github.com/thealper2/Calories-Burnt-Prediction) |
 | 53. | Python | X | [Age Detection](https://github.com/thealper2/Age-Detection) |
-| 54. | Python | X | [Autism Detection](https://github.com/thealper2/Autism-Detection) |
+| 54. | Python | Streamlit | [Autism Detection](https://github.com/thealper2/Autism-Detection) |
 | 55. | Python | X | [FIFA 2023 Analysis](https://github.com/thealper2/FIFA-2023-Analysis) |
 | 56. | Python | X | [Pneumonia Detection](https://github.com/thealper2/Pneumonia-Detection) |
 | 57. | Python | X | [Gender Classification](https://github.com/thealper2/Gender-Classification) |
 | 58. | Python | X | [Sign Language Classification](https://github.com/thealper2/Sign-Language-Classification) |
 | 59. | Python | X | [FastAI Pet Classification](https://github.com/thealper2/FastAI-Pet-Classification) |
-| 60. | Python | X | [Ted Talks Recommendation System](https://github.com/thealper2/Ted-Talks-Recommendation-System) |
-| 61. | Python | X | [Sarcasm Detection](https://github.com/thealper2/Sarcasm-Detection) |
-| 62. | Python | X | [Language Detection](https://github.com/thealper2/Language-Detection) |
-| 63. | Python | X | [Electricity Price Prediction](https://github.com/thealper2/Electricity-Price-Prediction) |
-| 64. | Python | X | [Stress Detection](https://github.com/thealper2/Stress-Detection) |
-| 65. | Python | X | [Article Recommendation System](https://github.com/thealper2/Article-Recommendation-System) |
+| 60. | Python | Streamlit | [Ted Talks Recommendation System](https://github.com/thealper2/Ted-Talks-Recommendation-System) |
+| 61. | Python | Streamlit | [Sarcasm Detection](https://github.com/thealper2/Sarcasm-Detection) |
+| 62. | Python | Streamlit | [Language Detection](https://github.com/thealper2/Language-Detection) |
+| 63. | Python | Streamlit | [Electricity Price Prediction](https://github.com/thealper2/Electricity-Price-Prediction) |
+| 64. | Python | Streamlit | [Stress Detection](https://github.com/thealper2/Stress-Detection) |
+| 65. | Python | Streamlit | [Article Recommendation System](https://github.com/thealper2/Article-Recommendation-System) |
 | 66. | Python | X | [Stock Price Prediction](https://github.com/thealper2/Stock-Price-Prediction) |
-| 67. | Python | X | [Breast Cancer Survival Prediction](https://github.com/thealper2/Breast-Cancer-Survival-Prediction) |
-| 68. | Python | X | [Waiter Tips Prediction](https://github.com/thealper2/Waiter-Tips-Prediction) |
-| 69. | Python | X | [Consumer Complaint Identification](https://github.com/thealper2/Consumer-Complaint-Identification) |
-| 70. | Python | X | [Spam Comment Detection](https://github.com/thealper2/Spam-Comment-Detection) |
+| 67. | Python | Streamlit | [Breast Cancer Survival Prediction](https://github.com/thealper2/Breast-Cancer-Survival-Prediction) |
+| 68. | Python | Streamlit | [Waiter Tips Prediction](https://github.com/thealper2/Waiter-Tips-Prediction) |
+| 69. | Python | Streamlit | [Consumer Complaint Identification](https://github.com/thealper2/Consumer-Complaint-Identification) |
+| 70. | Python | Streamlit | [Spam Comment Detection](https://github.com/thealper2/Spam-Comment-Detection) |
 | 71. | Python | X | [Website Traffic Forecasting](https://github.com/thealper2/Website-Traffic-Forecasting) |
-| 72. | Python | X | [Online Payments Fraud Detection](https://github.com/thealper2/Online-Payments-Fraud-Detection) |
-| 73. | Python | X | [Instagram Reach Analysis](https://github.com/thealper2/Instagram-Reach-Analysis) |
-| 74. | Python | X | [Food Delivery Time Prediction](https://github.com/thealper2/Food-Delivery-Time-Prediction) |
-| 75. | Python | X | [Credit Score Classification](https://github.com/thealper2/Credit-Score-Classification) |
+| 72. | Python | Streamlit | [Online Payments Fraud Detection](https://github.com/thealper2/Online-Payments-Fraud-Detection) |
+| 73. | Python | Streamlit | [Instagram Reach Analysis](https://github.com/thealper2/Instagram-Reach-Analysis) |
+| 74. | Python | Streamlit | [Food Delivery Time Prediction](https://github.com/thealper2/Food-Delivery-Time-Prediction) |
+| 75. | Python | Streamlit | [Credit Score Classification](https://github.com/thealper2/Credit-Score-Classification) |
 | 76. | Python | X | [trOCR Handwritten Detection](https://github.com/thealper2/trOCR-Handwritten-Detection) |
 | 77. | Python | X | [Table Detection with Transformer](https://github.com/thealper2/Table-Detection-with-Transformer) |
 | 78. | Python | X | [Swin2SR Image Resolution](https://github.com/thealper2/Swin2SR-Image-Resolution) |
@@ -120,7 +120,7 @@
 | 90. | Python | X | [Fish Weight Prediction](https://github.com/thealper2/Fish-Weight-Prediction) |
 | 91. | Python | X | [Titanic Survival Prediction](https://github.com/thealper2/Titanic-Surival-Prediction) |
 | 92. | Python | X | [Iris Species Classification](https://github.com/thealper2/Iris-Species-Classification) |
-| 93. | Python | X | [BART Wiki Text Summarization](https://github.com/thealper2/BART-Wiki_Text_Summarization) |
+| 93. | Python | Streamlit | [BART Wiki Text Summarization](https://github.com/thealper2/BART-Wiki_Text_Summarization) |
 | 94. | Python | X | [RoBERTa IMDB Sentiment Analysis](https://github.com/thealper2/RoBERTa-IMDB-Sentiment-Analysis) |
 | 95. | Python | X | [ALBERT Sentiment Analysis](https://github.com/thealper2/ALBERT-Sentiment_Analysis) |
 | 96. | Python | X | [Optical Character Recognition](https://github.com/thealper2/Optical-Character-Recognition) |
@@ -140,37 +140,37 @@
 | 110. | Python | X | [Turkish Movie Sentiment Analysis](https://github.com/thealper2/Turkish-Movie-Sentiment-Analysis) |
 | 111. | Python | X | [Fake News Classification](https://github.com/thealper2/Fake-News-Classification) |
 | 112. | Python | X | [Parkinsons Disease Prediction](https://github.com/thealper2/Parkinsons-Disease-Prediction) |
-| 113. | Python | X | [Mushroom Classification](https://github.com/thealper2/Mushroom-Classification) |
-| 114. | Python | X | [Medical Cost Prediction](https://github.com/thealper2/Medical-Cost-Prediction) |
-| 115. | Python | X | [Legendary Pokemon Prediction](https://github.com/thealper2/Legendary-Pokemon-Prediction) |
-| 116. | Python | X | [Customer Revenue Prediction](https://github.com/thealper2/Customer-Revenue-Prediction) |
+| 113. | Python | Streamlit | [Mushroom Classification](https://github.com/thealper2/Mushroom-Classification) |
+| 114. | Python | Streamlit | [Medical Cost Prediction](https://github.com/thealper2/Medical-Cost-Prediction) |
+| 115. | Python | Streamlit | [Legendary Pokemon Prediction](https://github.com/thealper2/Legendary-Pokemon-Prediction) |
+| 116. | Python | Streamlit | [Customer Revenue Prediction](https://github.com/thealper2/Customer-Revenue-Prediction) |
 | 117. | Python | X | [Credit Card Churn Analyze](https://github.com/thealper2/Credit-Card-Churn-Analyze) |
 | 118. | Python | X | [Car Price Prediction](https://github.com/thealper2/Car-Price-Prediction) |
 | 119. | Python | X | [Affair Count](https://github.com/thealper2/Affair-Count) |
 | 120. | Python | X | [Youtube Video Classification](https://github.com/thealper2/Youtube-Video-Classification) |
 | 121. | Python | X | [Image Digit Classification](https://github.com/thealper2/Image-Digit-Classification) |
-| 122. | Python | X | [Body Fat Estimator](https://github.com/thealper2/Body-Fat-Estimator) |
+| 122. | Python | Streamlit | [Body Fat Estimator](https://github.com/thealper2/Body-Fat-Estimator) |
 | 123. | Python | X | [Traffic Sign Classification](https://github.com/thealper2/Traffic-Sign-Classification) |
-| 124. | Python | X | [Car Acceptability Prediction](https://github.com/thealper2/Car-Acceptability-Prediction) |
-| 125. | Python | X | [Book Genre Prediction](https://github.com/thealper2/Book-Genre-Prediction) |
+| 124. | Python | Streamlit | [Car Acceptability Prediction](https://github.com/thealper2/Car-Acceptability-Prediction) |
+| 125. | Python | Streamlit | [Book Genre Prediction](https://github.com/thealper2/Book-Genre-Prediction) |
 | 126. | Python | X | [Plant Disease Prediction](https://github.com/thealper2/Plant-Disease-Prediction) |
-| 127. | Python | X | [Laptop Price Prediction](https://github.com/thealper2/Laptop-Price-Prediction) |
+| 127. | Python | Streamlit | [Laptop Price Prediction](https://github.com/thealper2/Laptop-Price-Prediction) |
 | 128. | Python | X | [Bird Species Prediction](https://github.com/thealper2/Bird-Species-Prediction) |
 | 129. | Python | X | [Dog Breed Prediction](https://github.com/thealper2/Dog-Breed-Prediction) |
 | 130. | Python | X | [Breast Cancer Classification](https://github.com/thealper2/Breast-Cancer-Classification) |
-| 131. | Python | X | [DNA Ecoli Classificatino](https://github.com/thealper2/DNA-Ecoli-Classification) |
+| 131. | Python | Streamlit | [DNA Ecoli Classificatino](https://github.com/thealper2/DNA-Ecoli-Classification) |
 | 132. | Python | X | [App Ranking Prediction](https://github.com/thealper2/App-Ranking-Prediction) |
 | 133. | Python | X | [Intel Image Classification](https://github.com/thealper2/Intel-Image-Classification) |
 | 134. | Python | X | [Forest Fire Prediction](https://github.com/thealper2/Forest-Fire-Prediction) |
-| 135. | Python | X | [OSINT Speech Recognition](https://github.com/thealper2/OSINT-Speech_Recognition) |
-| 136. | Python | X | [OSINT Facial Recognition](https://github.com/thealper2/OSINT-Facial_Recognition) |
+| 135. | Python | Streamlit | [OSINT Speech Recognition](https://github.com/thealper2/OSINT-Speech_Recognition) |
+| 136. | Python | Streamlit | [OSINT Facial Recognition](https://github.com/thealper2/OSINT-Facial_Recognition) |
 | 137. | Python | X | [Super Lig Analysis](https://github.com/thealper2/STSL-Analysis) |
-| 138. | Python | X | [Turkish Hate Speech Detection](https://github.com/thealper2/turkish-hate-speech) |
+| 138. | Python | Streamlit | [Turkish Hate Speech Detection](https://github.com/thealper2/turkish-hate-speech) |
 | 139. | Python | X | [USOM Url Classification](https://github.com/thealper2/USOM-url-classification) |
-| 140. | Python | X | [Turkish Spam Classification](https://github.com/thealper2/turkish-spam-classification) |
-| 141. | Python | X | [WhatsApp Chat Analysis](https://github.com/thealper2/turkish-wp-analyzer) |
-| 142. | Python | X | [Password Strength Analysis](https://github.com/thealper2/password-strength) |
-| 143. | Python | X | [Turkish Hate Speech Classification](https://github.com/thealper2/gat0r-nlp/blob/main/models/BERT_uncased_without_stopwords.ipynb) |
+| 140. | Python | Streamlit | [Turkish Spam Classification](https://github.com/thealper2/turkish-spam-classification) |
+| 141. | Python | Streamlit | [WhatsApp Chat Analysis](https://github.com/thealper2/turkish-wp-analyzer) |
+| 142. | Python | Streamlit | [Password Strength Analysis](https://github.com/thealper2/password-strength) |
+| 143. | Python | Gradio | [Turkish Hate Speech Classification](https://github.com/thealper2/gat0r-nlp/blob/main/models/BERT_uncased_without_stopwords.ipynb) |
 | 144. | Python | X | [Input Identifier](https://github.com/thealper2/cable-input-identifier) |
 | 145. | Python | X | [Counterfeit Detection](https://github.com/thealper2/Security-ML/tree/main/Counterfeit%20Detection)  |
 | 146. | Python | X | [DDoS Detection](https://github.com/thealper2/Security-ML/tree/main/DDoS%20Detection) |
@@ -188,10 +188,10 @@
 | 158. | Python | X | [Gamma Telescope Prediction](https://github.com/thealper2/Gamma-Telescope-Prediction) |
 | 159. | Python | X | [Service Classification](https://github.com/thealper2/Service-Classification) |
 | 160. | Python | X | [Gender Prediction from Name](https://github.com/thealper2/Gender-Prediction-from-Name) |
-| 161. | Python | X | [Beer Consumption Analysis](https://github.com/thealper2/Beer-Consumption-Analysis) |
+| 161. | Python | Streamlit | [Beer Consumption Analysis](https://github.com/thealper2/Beer-Consumption-Analysis) |
 | 162. | Python | X | [Twitch Streamer Analysis](https://github.com/thealper2/Twitch-Streamer-Analysis) |
 | 163. | Python | X | [Terrorism Analysis](https://github.com/thealper2/Terrorism-Analysis) |
-| 164. | Python | X | [Weight Category Analysis](https://github.com/thealper2/Weight-Category-Prediction) |
+| 164. | Python | Streamlit | [Weight Category Analysis](https://github.com/thealper2/Weight-Category-Prediction) |
 | 165. | Python | X | [Student Performance Analysis](https://github.com/thealper2/Student-Performance-Analysis) |
 | 166. | Python | X | [Solar Irradiance Prediction](https://github.com/thealper2/Solar-Irradiance-Prediction) |
 | 167. | Python | X | [Ship Crew Size Prediction](https://github.com/thealper2/Ship-Crew-Size-Analysis) |
@@ -207,7 +207,7 @@
 | 177. | Python | X | [Car Detection](https://github.com/thealper2/Car-Detection) |
 | 178. | Python | X | [Smile Detection](https://github.com/thealper2/Smile-Detection) |
 | 179. | Python | X | [Car Counting](https://github.com/thealper2/Car-Counting) |
-| 180. | Python | X | [Shark Attack Prediction](https://github.com/thealper2/Shark-Attack-Prediction) |
+| 180. | Python | Streamlit | [Shark Attack Prediction](https://github.com/thealper2/Shark-Attack-Prediction) |
 | 181. | Python | X | [Penguin Classification](https://github.com/thealper2/Penguin-Classification) |
 | 182. | Python | X | [League of Legends win Prediction](https://github.com/thealper2/League-of-Legends-Win-Prediction) |
 | 183. | Python | X | [World Cup 2022 Sentiment Analysis](https://github.com/thealper2/WC-2022-Sentiment-Analysis) |
