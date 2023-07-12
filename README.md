@@ -23,7 +23,6 @@
 
 <p align="center">
 
-<br/>
 - Machine Learning
 <br/>
 
@@ -243,7 +242,6 @@
 | 212. | ML.NET | ASP | [Weight Category Prediction](https://github.com/thealper2/ML.net-Weight-Category-Classification) |
 | 213. | ML.NET | ASP | [Fake Bank Note Detection](https://github.com/thealper2/ML.net-Fake-Bank-Note-Detection) |
 
-<br/>
 - Cyber Security Tools
 <br/>
 
@@ -277,7 +275,6 @@
 | 26. | Python | [g4tor](https://github.com/thealper2/g4tor) | 
 | 27. | Python | [vtscan](https://github.com/thealper2/vtscan) | 
 
-<br/>
 - Web Development
 <br/>
 
@@ -286,7 +283,6 @@
 | 1. | ASP.NET | [Glass Classification with ASP.NET](https://github.com/thealper2/ML.net-ASP-Glass-Classification) |
 | 2. | PHP | [Dictionary PHP](https://github.com/thealper2/Dictionary-PHP) | 
 
-<br/>
 - Mobile Application
 <br/>
 
@@ -296,7 +292,6 @@
 | 2. | Flutter | [USOM Search Mobile](https://github.com/thealper2/usom-search-mobile) |
 | 3. | Flutter | [MAS NFT Demo](https://github.com/thealper2/MAS-NFT-Demo) |
 
-<br/>
 - Chrome Extensions
 <br/>
 
@@ -304,7 +299,6 @@
 | -- | -------- | ---- |
 | 1. | JavaScript | [USOM-blocker](https://github.com/thealper2/USOM-blocker) |
 
-<br/>
 - IoT
 <br/>
 
@@ -314,7 +308,6 @@
 | 2. | Raspberry Pi Pico | [Pico Projects](https://github.com/thealper2/pico-pi) |
 | 3. | Digispark Attiny85 | [Digispark85 Projects](https://github.com/thealper2/digispark-85) | 
 
-<br/>
 - Game Development
 <br/>
 
