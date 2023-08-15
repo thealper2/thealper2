@@ -12,7 +12,7 @@
 
 - A passionate Self-taught Cyber-Security.
 - Playing CTF's at spare time
-- Currently learning **Flutter** and **Go** by Self
+- Currently learning **.NET** and **Go** by Self
 - Personal website [link](https://thealper2.github.io)
 - I’m currently open for an Intern or a new job opportunity
 
