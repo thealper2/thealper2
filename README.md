@@ -272,7 +272,7 @@
 | 23. | Python | [recycle-dump](https://github.com/thealper2/recycyle-dump) | 
 | 24. | Python | [eency](https://github.com/thealper2/eency) |
 | 25. | Python | [GTFObins-Script](https://github.com/thealper2/GTFOBins-Script) |
-| 26. | Python | [g4tor](https://github.com/thealper2/g4tor) | 
+| 26. | Java | [g4tor](https://github.com/thealper2/g4tor) | 
 | 27. | Python | [vtscan](https://github.com/thealper2/vtscan) | 
 
 - Web Development
