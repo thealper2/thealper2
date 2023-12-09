@@ -26,8 +26,8 @@
 - Machine Learning
 <br/>
 
-| Sira | Dil | Deployment | Proje Adı | Proje Linki | Veri Seti |
-| ---- | --- | ---------- | --------- | ----------- | --------- |
+| Sira | Dil | Deployment | Proje Adı | Proje Linki |
+| ---- | --- | ---------- | --------- | ----------- |
 | 1. | Python | X | Waste Classification | [Link](https://github.com/thealper2/Waste-Classification) |
 | 2. | Python | X | Poker Hand Classification | [Link](https://github.com/thealper2/Poker-Hand-Classification) |
 | 3. | Python | X | Organ Donor Prediction | [Link](https://github.com/thealper2/Organ-Donor-Prediction) |
@@ -364,6 +364,16 @@
 | ID | Language | Name | 
 | -- | -------- | ---- |
 | 1. | Java | [Adventure Game Engine](https://github.com/thealper2/Java-Swing-2D-Adventure-Game-Engine) | 
+
+- Notes
+<br/>
+
+| ID | Name |
+| -- | ---- |
+| 1. | [ML Notes](https://github.com/thealper2/ML-Notes) |
+| 2. | [AWS Notes](https://github.com/thealper2/AWS-notes) |
+| 3. | [DL Notes](https://github.com/thealper2/dl-notes) |
+| 4. | [Cyber Security Notes](https://github.com/thealper2/alposec-notes) | 
 
 </p>
 
