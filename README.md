@@ -26,7 +26,7 @@
 - Machine Learning
 <br/>
 
-| Sira | Dil | Deployment | Proje Adı | Proje Linki |
+| ID | Language | Deployment | Project Name | Project Link |
 | ---- | --- | ---------- | --------- | ----------- |
 | 1. | Python | X | Waste Classification | [Link](https://github.com/thealper2/Waste-Classification) |
 | 2. | Python | X | Poker Hand Classification | [Link](https://github.com/thealper2/Poker-Hand-Classification) |
