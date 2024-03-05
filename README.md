@@ -291,6 +291,18 @@
 | 261. | Python | X | Phone Price Prediction |  [Link](https://github.com/thealper2/Phone-Price-Prediction) |
 | 262. | Python | X | Sound Classification |  [Link](https://github.com/thealper2/Sound-Classification) |
 | 263. | Python | X | pescanner: ML-Based PE File Scanner |  [Link](https://github.com/thealper2/pescanner) |
+| 263. | Python | Streamlit | pescanner: ML-Based PE File Scanner |  [Link](https://github.com/thealper2/pescanner) |
+| 264. | Python | X | Steam Score Prediction | [Link](https://github.com/thealper2/Steam-Score-Prediction) |
+| 265. | Python | X | YAMNet Audio Classification | [Link](https://github.com/thealper2/YAMNet-Audio-Classification) |
+| 266. | Python | X | Wav2Vec2 Extracting Text from Audio | [Link](https://github.com/thealper2/Wav2Vec2-Extracting-Text-from-Audio) |
+| 267. | Python | X | CropNet Leaf Disease Classification | [Link](https://github.com/thealper2/CropNet-Leaf-Disease-Classification) |
+| 268. | Python | X | MapDB Bug Classification | [Link](https://github.com/thealper2/Bug-Classification) |
+| 269. | Python | X | Stable Diffusion + BART + text2img Generate Images from Story | [Link](https://github.com/thealper2/SD-BART-text2img) |
+| 270. | Python | X | Computer Hardware Identification | [Link](https://github.com/thealper2/Hardware-Identification) |
+| 271. | Python | X | English to French Machine Translation | [Link](https://github.com/thealper2/Machine-Translation) |
+| 272. | Python | HuggingFace | Türk Televizyon Dizilerinin Devamlılığının Tespiti | [Link](https://github.com/thealper2/gator-bim-429) | 
+| 273. | Python | ESP8266 | Wifi Indoor Positioning | [Link](https://github.com/thealper2/wifi-indoor-positioning) |
+
 
 - Cyber Security Tools
 <br/>
