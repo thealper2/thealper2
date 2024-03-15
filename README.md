@@ -290,7 +290,6 @@
 | 260. | Python | X | Medical Image Denoising |  [Link](https://github.com/thealper2/Medical-Image-Denoising) |
 | 261. | Python | X | Phone Price Prediction |  [Link](https://github.com/thealper2/Phone-Price-Prediction) |
 | 262. | Python | X | Sound Classification |  [Link](https://github.com/thealper2/Sound-Classification) |
-| 263. | Python | X | pescanner: ML-Based PE File Scanner |  [Link](https://github.com/thealper2/pescanner) |
 | 263. | Python | Streamlit | pescanner: ML-Based PE File Scanner |  [Link](https://github.com/thealper2/pescanner) |
 | 264. | Python | X | Steam Score Prediction | [Link](https://github.com/thealper2/Steam-Score-Prediction) |
 | 265. | Python | X | YAMNet Audio Classification | [Link](https://github.com/thealper2/YAMNet-Audio-Classification) |
