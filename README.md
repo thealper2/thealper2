@@ -16,6 +16,10 @@
 - Personal website [link](https://thealper2.github.io)
 - I’m currently open for an Intern or a new job opportunity
 
+<p align="center">
+ <a href="http://www.github.com/thealper2"><img src="https://github-profile-trophy.vercel.app/?username=thealper2&theme=onedark&column=3"  alt="thealper2's GitHub stats" />
+</p>
+
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Active Repos</b>
