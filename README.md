@@ -305,6 +305,21 @@
 | 271. | Python | X | English to French Machine Translation | [Link](https://github.com/thealper2/Machine-Translation) |
 | 272. | Python | HuggingFace | Türk Televizyon Dizilerinin Devamlılığının Tespiti | [Link](https://github.com/thealper2/gator-bim-429) | 
 | 273. | Python | ESP8266 | Wifi Indoor Positioning | [Link](https://github.com/thealper2/wifi-indoor-positioning) |
+| 274. | Python | X | Neural Style Transfer | [Link](https://github.com/thealper2/Neural-Style-Transfer) |
+| 275. | Python | X | Gender and Age Prediction from Face | [Link](https://github.com/thealper2/Gender-and-Age-Prediction-from-Face) |
+| 276. | Python | X | DGAN Simpson Face Generation | [Link](https://github.com/thealper2/Simspons-Face-Generation) |
+| 277. | Python | X | Breast Ultrasoung Image Segmentation using U-Net | [Link](https://github.com/thealper2/Breast-Ultrasound-Image-Segmentation) |
+| 278. | Python | X | CGAN Map Generation | [Link](https://github.com/thealper2/Maps-Generation) |
+| 279. | Python | X | MNIST Siamese Network | [Link](https://github.com/thealper2/MNIST-Siamese-Network) |
+| 280. | Python | X | World News Classification using Temporal Convolutional Network | [Link](https://github.com/thealper2/World-News-Classification) |
+| 281. | Python | X | EN-TR Translation using Bahdanau Attention | [Link](https://github.com/thealper2/EN-TR-Bahdanau-Attention) |
+| 282. | Python | X | EN-TR Translation using Luong Attention | [Link](https://github.com/thealper2/EN-TR-Luong-Attention) |
+| 283. | Python | X | Turkish NER using Bi-LSTM + CRF | [Link](https://github.com/thealper2/Turkish-NER) |
+| 284. | Python | X | Sudoku Solver CNN + PyTesseract | [Link](https://github.com/thealper2/Sudoku-Solver-CNN) |
+| 285. | Python | X | Turkish Song Lyrics Generation | [Link](https://github.com/thealper2/Turkish-Song-Lyrics-Generation) |
+| 286. | Python | X | CAPTCHA OCR with CTC Loss | [Link](https://github.com/thealper2/CAPTCHA-OCR) |
+| 287. | Python | X | MNIST CapsuleNet | [Link](https://github.com/thealper2/MNIST-CapsuleNet) |
+| 288. | Python | X | Signature Verification using Siamese Network with Triplet Loss | [Link](https://github.com/thealper2/Signature-Verification) |
 
 
 - Cyber Security Tools
