@@ -320,6 +320,24 @@
 | 286. | Python | X | CAPTCHA OCR with CTC Loss | [Link](https://github.com/thealper2/CAPTCHA-OCR) |
 | 287. | Python | X | MNIST CapsuleNet | [Link](https://github.com/thealper2/MNIST-CapsuleNet) |
 | 288. | Python | X | Signature Verification using Siamese Network with Triplet Loss | [Link](https://github.com/thealper2/Signature-Verification) |
+| 299. | Python | Streamlit | Turkish News Classification | [Link](https://github.com/thealper2/turkish-news-classification) |
+| 300. | Python | X | Turkish News Classification using Hierarchical Attention Networks | [Link](https://github.com/thealper2/tr-news-classification) |
+| 301. | Python | X | Data Science Jobs Classification using Zero Shot Classification | [Link](https://github.com/thealper2/DS-Jobs-Classification) |
+| 302. | Python | X | Hymenoptera Classification using PyTorch | [Link](https://github.com/thealper2/Hymenoptera-Classification) |
+| 303. | Python | X | DCGAN Butterfly Generation | [Link](https://github.com/thealper2/Butterfly-Generation) |
+| 304. | Python | X | Cycle GAN Apple-to-Orange | [Link](https://github.com/thealper2/CGAN-Apple-to-Orange) |
+| 305. | Python | X | 3D MNIST Classification | [Link](https://github.com/thealper2/3d-mnist-classification) |
+| 306. | Python | X | Wasserstein GAN Anime Face Generation | [Link](https://github.com/thealper2/WGAN-Anime-Face-Generation) |
+| 307. | Python | X | Point-e: Text to 3D Object Generation | [Link](https://github.com/thealper2/Point-e-Demo) |
+| 308. | Python | X | Turkish Tweet Classification using BERT | [Link](https://github.com/thealper2/Turkish-Tweet-Classification) |
+| 309. | Python | X | MNIST Label Smoothing GAN | [Link](https://github.com/thealper2/MNIST-Label-Smooting-GAN) |
+| 310. | Python | X | Turkish Poem Generation using TextRNN | [Link](https://github.com/thealper2/Turkish-Poem-Generation) |
+| 311. | Python | X | VGG19 Style Transfer | [Link](https://github.com/thealper2/VGG19-Style-Transfer) |
+| 312. | Python | X | CIFAR10 Vision Transformer | [Link](https://github.com/thealper2/CIFAR10-ViT) |
+| 313. | Python | X | LSTM MIDI Music Generator | [Link](https://github.com/thealper2/LSTM-Music-Generator) |
+| 314. | Python | X | IM2LATEX using CTC Loss | [Link](https://github.com/thealper2/IM2LATEX-CTC-Loss) |
+
+
 
 
 - Cyber Security Tools
