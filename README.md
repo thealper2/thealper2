@@ -337,6 +337,10 @@
 | 313. | Python | X | LSTM MIDI Music Generator | [Link](https://github.com/thealper2/LSTM-Music-Generator) |
 | 314. | Python | X | IM2LATEX using CTC Loss | [Link](https://github.com/thealper2/IM2LATEX-CTC-Loss) |
 | 315. | Python | X | MNIST Conditional GAN | [Link](https://github.com/thealper2/MNIST-Conditional-GAN) |
+| 316. | Python | X | RASA VirusTotal Chatbot | [Link](https://github.com/thealper2/rasa-virustotal-chatbot) |
+| 317. | Python | X | Udacity Self Driving Car - Behavioural Cloning | [Link](https://github.com/thealper2/self-driving-car) |
+| 318. | R | X | Brain Tumour Detection | [Link](https://github.com/thealper2/R-Brain-Tumour-Detection) |
+| 319. | Python | X | Ollama PDF RAG | [Link](https://github.com/thealper2/ollama-pdf-rag) |
 
 
 
