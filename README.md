@@ -27,7 +27,7 @@
 
 <p align="center">
 
-- Machine Learning
+<details><summary>Machine Learning</summary>
 <br/>
 
 | ID | Language | Deployment | Project Name | Project Link |
@@ -342,10 +342,10 @@
 | 318. | R | X | Brain Tumour Detection | [Link](https://github.com/thealper2/R-Brain-Tumour-Detection) |
 | 319. | Python | X | Ollama PDF RAG | [Link](https://github.com/thealper2/ollama-pdf-rag) |
 
+</details>
 
 
-
-- Cyber Security Tools
+<details><summary>Cyber Security Tools</summary>
 <br/>
 
 | ID | Language | Name | 
@@ -378,7 +378,9 @@
 | 26. | Java | [g4tor](https://github.com/thealper2/g4tor) | 
 | 27. | Python | [vtscan](https://github.com/thealper2/vtscan) | 
 
-- Web Development
+</details>
+
+<details><summary>Web Development</summary>
 <br/>
 
 | ID | Language | Name |
@@ -386,7 +388,9 @@
 | 1. | ASP.NET | [Glass Classification with ASP.NET](https://github.com/thealper2/ML.net-ASP-Glass-Classification) |
 | 2. | PHP | [Dictionary PHP](https://github.com/thealper2/Dictionary-PHP) | 
 
-- Mobile Application
+</details>
+
+<details><summary>Mobile Application</summary>
 <br/>
 
 | ID | Language | Name |
@@ -395,14 +399,18 @@
 | 2. | Flutter | [USOM Search Mobile](https://github.com/thealper2/usom-search-mobile) |
 | 3. | Flutter | [MAS NFT Demo](https://github.com/thealper2/MAS-NFT-Demo) |
 
-- Chrome Extensions
+</details>
+
+<details><summary>Chrome Extensions</summary>
 <br/>
 
 | ID | Language | Name |
 | -- | -------- | ---- |
 | 1. | JavaScript | [USOM-blocker](https://github.com/thealper2/USOM-blocker) |
 
-- IoT
+</details>
+
+<details><summary>IoT</summary>
 <br/>
 
 | ID | Device | Name |
@@ -411,14 +419,18 @@
 | 2. | Raspberry Pi Pico | [Pico Projects](https://github.com/thealper2/pico-pi) |
 | 3. | Digispark Attiny85 | [Digispark85 Projects](https://github.com/thealper2/digispark-85) | 
 
-- Game Development
+</details>
+
+<details><summary>Game Development</summary>
 <br/>
 
 | ID | Language | Name | 
 | -- | -------- | ---- |
 | 1. | Java | [Adventure Game Engine](https://github.com/thealper2/Java-Swing-2D-Adventure-Game-Engine) | 
 
-- Notes
+</details>
+
+<details><summary>Notes</summary>
 <br/>
 
 | ID | Name |
@@ -427,6 +439,8 @@
 | 2. | [AWS Notes](https://github.com/thealper2/AWS-notes) |
 | 3. | [DL Notes](https://github.com/thealper2/dl-notes) |
 | 4. | [Cyber Security Notes](https://github.com/thealper2/alposec-notes) | 
+
+</details>
 
 </p>
 
