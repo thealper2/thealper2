@@ -444,28 +444,4 @@
 
 </p>
 
-<br>
-<br>
-
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/thealper2/">
-  <img src="https://github-readme-stats.vercel.app/api?username=thealper2&show_icons=true&theme=gruvbox" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealper2&langs_count=5" width="375"  alt="thealper2"/>
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
 -----
