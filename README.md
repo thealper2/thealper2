@@ -18,6 +18,7 @@
 
 <p align="center">
  <a href="http://www.github.com/thealper2"><img src="https://github-profile-trophy.vercel.app/?username=thealper2&theme=onedark&column=3"  alt="thealper2's GitHub stats" />
+ <img src="https://tryhackme-badges.s3.amazonaws.com/thealper2.png" alt="Your Image Badge" />
 </p>
 
 <br><br>
