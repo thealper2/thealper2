@@ -15,7 +15,7 @@
 - Currently learning **.NET** and **JavaScript** by Self
 - Personal website [link](https://thealper2.github.io)
 - I’m currently open for an Intern or a new job opportunity
-- 
+
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Active Repos</b>
