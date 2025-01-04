@@ -337,7 +337,36 @@
 | 317. | Python | X | Udacity Self Driving Car - Behavioural Cloning | [Link](https://github.com/thealper2/self-driving-car) |
 | 318. | R | X | Brain Tumour Detection | [Link](https://github.com/thealper2/R-Brain-Tumour-Detection) |
 | 319. | Python | X | Ollama PDF RAG | [Link](https://github.com/thealper2/ollama-pdf-rag) |
-
+| 322. | Python | X | LLAVA Math Solver | [Link](https://github.com/thealper2/LLAVA-Math-Solver) | 
+| 323. | Python | X | MNIST Auxiliary Classifier GAN | [Link](https://github.com/thealper2/MNIST-Auxiliary-Classifier-GAN) | 
+| 324. | Python | X | MNIST Energy-based GAN | [Link](https://github.com/thealper2/MNIST-EBGAN) | 
+| 325. | Python | X | MNIST DRAGAN | [Link](https://github.com/thealper2/MNIST-DRAGAN) | 
+| 326. | Python | X | MNIST Least Squares GAN | [Link](https://github.com/thealper2/MNIST-Least-Squares-GAN) | 
+| 327. | Python | X | CelebA StarGAN | [Link](https://github.com/thealper2/CelebA-StarGAN) | 
+| 328. | Python | X | Tic Tac Toe with Minimax Algorith | [Link](https://github.com/thealper2/tictactoe-with-minimax) |
+| 329. | Python | X | MNIST SoftmaxGAN | [Link](https://github.com/thealper2/MNIST-SoftmaxGAN) | 
+| 330. | Python | X | MNIST Forward-Forward Algorithm | [Link](https://github.com/thealper2/MNIST-FFA) |
+| 331. | Python | X | MNIST Relativistic GAN | [Link](https://github.com/thealper2/MNIST-Relativistic-GAN) |
+| 332. | Python | X | MNIST InfoGAN | [Link](https://github.com/thealper2/MNIST-InfoGAN) |
+| 333. | Python | X | Next Word Prediction | [Link](https://github.com/thealper2/Next-Word-Prediction) |
+| 334. | Python | X | Visualizing Numerical Features using Chernoff Faces | [Link](https://github.com/thealper2/Visualizing-Chernoff-Faces) | 
+| 335. | Python | X | FashionMNIST PixelCNN | [Link](https://github.com/thealper2/FashionMNIST-PixelCNN) | 
+| 336. | Python | X | MNIST Maxout Networks | [Link](https://github.com/thealper2/MNIST-Maxout-Networks) | 
+| 337. | Python | X | PyTorch Deep Image Prior | [Link](https://github.com/thealper2/PT-Deep-Image-Prior) |
+| 338. | Python | X | MNIST Network-in-Network (NiN) | [Link](https://github.com/thealper2/MNIST-Network-in-Network) | 
+| 339. | Python | X | Image Colorization using Autoencoders | [Link](https://github.com/thealper2/AE-Image-Colorization) | 
+| 340. | Python | X | Low-Light Image Enhancement using Autoencoders | [Link](https://github.com/thealper2/AE-Low-Light-Image-Enhancement) | 
+| 341. | Python | X | Image Resolution Enhancement using Autoencoders | [Link](https://github.com/thealper2/AE-Image-Resolution-Enhancement) | 
+| 342. | Python | X | MNIST Restricted Boltzmann Machines | [Link](https://github.com/thealper2/MNIST-RBM) | 
+| 343. | Python | X | MNIST Radial Basis Network | [Link](https://github.com/thealper2/MNIST-RBN) |
+| 344. | Python | X | MNIST Hopfield Network | [Link](https://github.com/thealper2/MNIST-Hopfield-Networks) |
+| 345. | Python | X | Generating Stories using Markov Chains | [Link](https://github.com/thealper2/Markov-Chains-Story-Generation) |
+| 346. | Python | X | Passenger Prediction usign Echo State Networks (ESN) | [Link](https://github.com/thealper2/ESN-Regression) | 
+| 347. | Python | X | Color Clustering using Self Organizing Maps (SOM - Kohonen Networks) | [Link](https://github.com/thealper2/Kohonen-Network-Clustering) |
+| 348. | Python | X | Movie Recommendation usign Matrix Factorization | [Link](https://github.com/thealper2/Movie-Recommender-MF) |
+| 349. | Python | X | Traffic Sign Detection using YOLOv8 | [Link](https://github.com/thealper2/YOLO-Traffic-Sign-Detection) |
+| 350. | Python | X | Sentiment Analysis usign Deep Averaging Networks (DAN) | [Link](https://github.com/thealper2/DAN-Sentiment-Analysis) | 
+| 351. | Python | X | MNIST Highway Networks | [Link](https://github.com/thealper2/MNIST-Highway-Networks) |
 </details>
 
 
